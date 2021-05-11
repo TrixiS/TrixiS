@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TrixiS
+- 👀 I’m interested in Python (backend apps) and JS/TS (frontend)
+- 🌱 I’m currently learning Next.js
+- 📫 Discord TrixiS#6531
